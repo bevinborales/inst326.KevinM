@@ -21,3 +21,9 @@ _________________________________________
 I was unsure how to remove extra spaces between words in a string, So i asked chatgpt and it told me about .join
 I couldn't remember what a tuple was, so I had AI explain it to me
 The term 1-based index confused me for 29, so I asked AI to explain what it meant
+
+WEEK 4
+___________________________________________
+I asked AI to explain a set of strings
+I asked ai how to sort dictionaries
+IT also explained to me how to return the latest thing in a list, which is using the -1

@@ -27,3 +27,7 @@ ___________________________________________
 I asked AI to explain a set of strings
 I asked ai how to sort dictionaries
 IT also explained to me how to return the latest thing in a list, which is using the -1
+
+WEEK 6
+_____________________________________________
+I asked AI to explain datetime some more to me, it provided me with datetime.fromisoformat to make it easier to convert

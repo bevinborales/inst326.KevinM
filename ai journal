@@ -31,3 +31,4 @@ IT also explained to me how to return the latest thing in a list, which is using
 WEEK 6
 _____________________________________________
 I asked AI to explain datetime some more to me, it provided me with datetime.fromisoformat to make it easier to convert
+I asked AI when to create dictionaries vs when to have them passed in already in a new class as an attribute.

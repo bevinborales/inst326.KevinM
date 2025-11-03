@@ -32,3 +32,9 @@ WEEK 6
 _____________________________________________
 I asked AI to explain datetime some more to me, it provided me with datetime.fromisoformat to make it easier to convert
 I asked AI when to create dictionaries vs when to have them passed in already in a new class as an attribute.
+
+WEEK 7
+_______________________________________________
+I used AI to write me an example of my code in use for some of the exercises.
+I used AI to help me write test code, to fill in data for the tests I wrote that needed to be ran
+Ai explained to me how !r works, how bytes work (b" ") and structuring for unit tests

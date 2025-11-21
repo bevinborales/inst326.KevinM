@@ -42,3 +42,8 @@ Ai explained to me how !r works, how bytes work (b" ") and structuring for unit 
 WEEK 8
 _________________________________________________
 I only used ai to re-explain the concepts for the week, so that it was fresh in my mind
+
+WEEK 10
+___________________________________________________
+For this week, I used AI to double check a lot of my understanding of the concepts. It explained @property setters and I used it to help me write explanations and examples for assertion exercises
+It helped explain defensive copying as well and when to use helper methods in the context of these exercises.
